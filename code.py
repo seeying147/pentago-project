@@ -540,7 +540,7 @@ def menu():
            print("Invalid level")
            level=input("Choose between the difficulty levels 1 or 2: ") 
        level=int(level)
-       player_vs_computer(board)
+       player_vs_computer(board,level)
 
 
 menu()
