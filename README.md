@@ -1,4 +1,4 @@
-# Pentago - Connect 4 with a Twist 
+# <img src="https://github.com/seeying147/pentago-project/blob/63092fd6dbd9a2b6b21a6e7315ee0e16be9e7fae/pentago.jpg" width="200" height="150"> Pentago - Connect 4 with a Twist 
 Pentago is a Python implementation of the classic Connect 4 game, enhanced with a unique rotation mechanic. In this game, players take turns trying to connect five of their marbles in a row, either horizontally, vertically, or diagonally, while also having the ability to rotate specific quadrants of the game board. Test your strategic thinking and outwit your opponent in this exciting twist on a timeless classic.
 
 # How to Play
